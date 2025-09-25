@@ -16,3 +16,16 @@ thisdict = {
 }
 mydict = dict(thisdict)
 print(mydict)
+
+[]
+()
+x = {}
+x = list(thisdict.values())
+print(x)
+
+
+x = [1,2,3,4,5]
+x.append(6)
+
+print(z)
+
